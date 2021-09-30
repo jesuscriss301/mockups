@@ -1,0 +1,49 @@
+#logo{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+	margin-left: 20px;
+}
+
+#titulo{
+	text-align: center;
+}
+
+#texto{
+	text-align: center;
+	margin-left: 15%;
+	margin-bottom: 2%;
+}
+
+
+
+#video{
+	border-radius: 10%;
+	margin-left: 17%;
+	margin-bottom: 5px;
+	align-content: center;
+	width: 80%;
+	}
+
+#parrafo{
+	border-style: dotted; border-color:#FB9AEF;
+	margin: 30px;
+	align-content: center;
+	text-align: center;
+}
+
+#redes{
+	text-align: left;
+	margin-left: 40px;
+
+}
+
+#imgredes{
+	text-align: right;
+}
+
+footer, .head{
+	background: #FFEBEE;
+}
+
+
