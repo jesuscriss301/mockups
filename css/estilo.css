@@ -41,9 +41,9 @@
 #imgredes{
 	text-align: right;
 }
-
+.card-purple{
+		background: #FFEBEE;
+}
 footer, .head{
 	background: #FFEBEE;
 }
-
-
