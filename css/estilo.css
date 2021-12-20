@@ -44,6 +44,15 @@
 .card-purple{
 		background: #FFEBEE;
 }
+
+.borde-punteado{
+	border-style: dotted; border-color:#FB9AEF;
+	margin: 30px;
+	align-content: center;
+	text-align: center;
+}
+
+
 footer, .head{
 	background: #FFEBEE;
 }
